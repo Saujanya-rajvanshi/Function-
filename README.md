@@ -100,3 +100,4 @@ The number is: 42
 2. **No Return, But Argument**: The function takes input but doesn't return any value.
 3. **Return With Argument**: The function takes input and returns a result.
 4. **Return Without Argument**: The function doesn't take input but returns a result.
+
